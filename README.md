@@ -23,3 +23,17 @@ python main.py --task pointGoal
 Note:
 * SEPS assumes the surrogate reward is available. This is encoded along with the agent's task reward in the Env class
 
+
+## 📖 Citation
+
+If you use this code in your research, please cite:
+
+@article{hanni2025safe,
+  title={Safe Explicable Policy Search},
+  author={Hanni, Akkamahadevi and Monta{\~n}o, Jonathan and Zhang, Yu},
+  journal={arXiv preprint arXiv:2503.07848},
+  year={2025}
+}
+
+
+
