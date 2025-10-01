@@ -9,7 +9,7 @@ SEPS is currently implemented in two OpenAI safety gym environments.
 1) pointGoal
 2) pointButton; a modified pointGoal env that includes buttons
 
-To run SEPS, run the main program by passing the name of the task. For example,
+To run SEPS, run the main program by passing the name of the task. For example,  
 `python main.py --task pointGoal --test --checkpoint checkpoint1`
 
 To train in a new environment, follow the following steps
@@ -28,11 +28,11 @@ Note:
 
 If you use this code in your research, please cite:
 
-@article{hanni2025safe,
-  title={Safe Explicable Policy Search},
-  author={Hanni, Akkamahadevi and Monta{\~n}o, Jonathan and Zhang, Yu},
-  journal={arXiv preprint arXiv:2503.07848},
-  year={2025}
+@article{hanni2025safe,  
+  title={Safe Explicable Policy Search},  
+  author={Hanni, Akkamahadevi and Monta{\~n}o, Jonathan and Zhang, Yu},  
+  journal={arXiv preprint arXiv:2503.07848},  
+  year={2025}  
 }
 
 
